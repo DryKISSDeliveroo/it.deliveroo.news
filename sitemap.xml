@@ -241,6 +241,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/extreme-delivery-naples.html</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/capitaleconomics2019.html</loc>
     <lastmod>2019-07-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -338,6 +344,18 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/1330-ristoranti.html</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/extreme-delivery.html</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/naples.html</loc>
     <lastmod>2019-07-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
