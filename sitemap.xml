@@ -67,6 +67,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/oktoberfest.html</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-eurochocolate.html</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -475,6 +481,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/oktoberfest.html</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/food.html</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/deliveroom.html</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -506,12 +524,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/150.html</loc>
-    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/food.html</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1394,6 +1406,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/archive/2019/page/4.html</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/archive/2019/page/5.html</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
