@@ -181,6 +181,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-expansion-january-2020-cities.html</loc>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/marketplace-2019.html</loc>
     <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -457,6 +463,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/espansione.html</loc>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/2020.html</loc>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/gennaio.html</loc>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/milano.html</loc>
     <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -512,12 +536,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/ordini-152.html</loc>
-    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/espansione.html</loc>
     <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1507,6 +1525,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/archive/2020.html</loc>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/archive/2019.html</loc>
     <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1532,6 +1556,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/deliveroo/page/2.html</loc>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/deliveroo/page/3.html</loc>
     <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1609,6 +1639,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/page/8.html</loc>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/deliveroo/page/2.html</loc>
     <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1640,6 +1676,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/deliveroo/page/7.html</loc>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/deliveroo/page/8.html</loc>
     <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
