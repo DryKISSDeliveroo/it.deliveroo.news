@@ -301,6 +301,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/world-pizza-day.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/survey.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -499,6 +505,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/pizza.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/day.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/trends.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/espansione.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -524,12 +548,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/food.html</loc>
-    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/trends.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
