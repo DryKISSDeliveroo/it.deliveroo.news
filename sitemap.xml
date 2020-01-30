@@ -67,6 +67,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/food-horoscope-2020.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/business.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -511,6 +517,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/horoscope.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/food.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/trends.html</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/star-wars.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -650,12 +674,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/world.html</loc>
-    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/food.html</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
