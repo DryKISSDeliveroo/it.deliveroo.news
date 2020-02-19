@@ -547,6 +547,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/roma.html</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/compleanno.html</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/anniversario.html</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/citta.html</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/espansione.html</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -584,12 +608,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/milano.html</loc>
-    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/roma.html</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -925,12 +943,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://it.deliveroo.news/tag/anniversario.html</loc>
-    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://it.deliveroo.news/tag/3-anni.html</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1064,12 +1076,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/ricavi.html</loc>
-    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/citta.html</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
