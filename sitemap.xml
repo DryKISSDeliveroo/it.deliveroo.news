@@ -415,6 +415,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-coronavirus-covid-19-insurance-assicurazione.html</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/extreme-delivery-naples.html</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -559,13 +565,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://it.deliveroo.news/tag/contactless.html</loc>
+    <loc>https://it.deliveroo.news/tag/insurance.html</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/covid-19.html</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/rider.html</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/contactless.html</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1376,12 +1394,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/foodfreedom.html</loc>
-    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/rider.html</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
