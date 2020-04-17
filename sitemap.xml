@@ -223,6 +223,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-homeless-covid-19-vasiniko-senzatetto.html</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/classmates-dinner.html</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -578,6 +584,24 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/homeless.html</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/vasiniko.html</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/senzatetto.html</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
