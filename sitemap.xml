@@ -331,6 +331,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-fase2-mcdonald-s-food-delivery.html</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/eat-the-rainbow.html</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -601,6 +607,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/fase-2.html</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/mcdonald-s.html</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/food-delivery.html</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/naples.html</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -776,12 +800,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/milano.html</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/food-delivery.html</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
