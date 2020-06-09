@@ -535,6 +535,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-june-expansion-cities-pick-up-round-up.html</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/expansionmay2019.html</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -631,6 +637,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/june.html</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/expansion.html</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/cities.html</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/pick-up.html</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/round-up.html</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/amsa.html</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -686,12 +722,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/cagliari.html</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/pick-up.html</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1232,12 +1262,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/colours.html</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/expansion.html</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
