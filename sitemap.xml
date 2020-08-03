@@ -79,6 +79,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-milan-juve-pizze.html</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/food-horoscope-2020.html</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -727,6 +733,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/milan.html</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/juve.html</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/pizze.html</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/starbucks.html</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -794,12 +818,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/recycling.html</loc>
-    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/milan.html</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
