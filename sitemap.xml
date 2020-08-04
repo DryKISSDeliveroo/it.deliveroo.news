@@ -181,6 +181,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-rice-salad-pasta-salad-challenge.html</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/insalate.html</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -716,6 +722,24 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/summer.html</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/rice-salad.html</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/pasta-salad.html</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/challenge.html</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
