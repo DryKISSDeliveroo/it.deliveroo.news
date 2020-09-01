@@ -127,6 +127,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-food-horoscope-oroscopo-ferragosto.html</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-ice-cream-observatory-summer.html</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -758,6 +764,24 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/ristoranti-virtuali.html</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/food-horoscope.html</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/oroscopo.html</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/ferragosto.html</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2372,6 +2396,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/archive/2020/page/4.html</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/archive/2020/page/5.html</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
