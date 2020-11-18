@@ -541,6 +541,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-breakfast-healthy-eating.html</loc>
+    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-coronavirus-covid-19-insurance-assicurazione.html</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -770,6 +776,18 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/breakfast.html</loc>
+    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/healthy-eating.html</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1112,12 +1130,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/partnership.html</loc>
-    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/healthy-eating.html</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
