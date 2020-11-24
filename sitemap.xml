@@ -115,6 +115,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-florence-anniversario.html</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-restaurant-awards-rider-firenze-roma-milano-cagliari.html</loc>
     <lastmod>2020-11-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -787,6 +793,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/florence.html</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/anniversario.html</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/november.html</loc>
     <lastmod>2020-11-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1370,12 +1388,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/compleanno.html</loc>
-    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/anniversario.html</loc>
     <lastmod>2020-11-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2564,6 +2576,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/archive/2020/page/5.html</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/archive/2020/page/6.html</loc>
     <lastmod>2020-11-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
