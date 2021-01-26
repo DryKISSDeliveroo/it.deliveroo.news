@@ -379,6 +379,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-doxa-sondaggio.html</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-beach-rimini-menu-piadina.html</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -932,6 +938,18 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/waste.html</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/doxa.html</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/sondaggio.html</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2744,6 +2762,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/archive/2020/page/6.html</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/archive/2020/page/7.html</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
