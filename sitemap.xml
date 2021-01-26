@@ -475,6 +475,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-pasta-world-pasta-day.html</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/mondo.html</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -962,6 +968,18 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/anniversary.html</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/pasta.html</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/world-pasta-day.html</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1742,12 +1760,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/serie-a.html</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/pasta.html</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
