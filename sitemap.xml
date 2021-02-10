@@ -985,6 +985,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/black-friday.html</loc>
+    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/black-boxes.html</loc>
+    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/brescia.html</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1742,18 +1754,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/capodanno.html</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/black-friday.html</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/black-boxes.html</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
