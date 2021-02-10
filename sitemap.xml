@@ -487,6 +487,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-torino-compleanno.html</loc>
+    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-expansion-2019.html</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -877,13 +883,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://it.deliveroo.news/tag/genova.html</loc>
+    <loc>https://it.deliveroo.news/tag/torino.html</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/compleanno.html</loc>
+    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/genova.html</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2221,12 +2233,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://it.deliveroo.news/tag/torino.html</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://it.deliveroo.news/tag/awards.html</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2929,6 +2935,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/page/15.html</loc>
+    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/deliveroo/page/2.html</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3002,6 +3014,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/deliveroo/page/14.html</loc>
+    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/deliveroo/page/15.html</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
