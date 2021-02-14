@@ -925,6 +925,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/supermercati.html</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/spesa.html</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/torino.html</loc>
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1693,12 +1705,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://it.deliveroo.news/tag/supermercati.html</loc>
-    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://it.deliveroo.news/tag/coronavirus.html</loc>
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1736,12 +1742,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/citta.html</loc>
-    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/spesa.html</loc>
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
