@@ -763,6 +763,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-world-pizza-day-pizza-margherita.html</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-chefs-playlist-spotify.html</loc>
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -908,6 +914,24 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/world-pizza-day.html</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/pizza.html</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/margherita.html</loc>
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1358,12 +1382,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/gasperini.html</loc>
-    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/pizza.html</loc>
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
