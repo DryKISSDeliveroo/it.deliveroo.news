@@ -283,6 +283,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-apres-ski-ski-sci-montagna.html</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/the-ultimate-food-guide-for-festivals.html</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -998,6 +1004,30 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/hr.html</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/apres-ski.html</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/ski.html</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/sci.html</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/montagna.html</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2888,12 +2918,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/insalate.html</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/montagna.html</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
