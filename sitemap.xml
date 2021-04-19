@@ -667,6 +667,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-masterchef-sky.html</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/sanremo-juror-kit.html</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1106,6 +1112,18 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/palermo.html</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/masterchef.html</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/sky.html</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3259,6 +3277,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/page/17.html</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/deliveroo/page/2.html</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3344,6 +3368,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/deliveroo/page/16.html</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/deliveroo/page/17.html</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
