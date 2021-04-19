@@ -739,6 +739,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-milan-inter-derby-calcio.html</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-naples-napoli-pizza.html</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1100,6 +1106,30 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/palermo.html</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/milan.html</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/inter.html</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/derby.html</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/calcio.html</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1735,12 +1765,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://it.deliveroo.news/tag/milan.html</loc>
-    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://it.deliveroo.news/tag/juve.html</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1970,18 +1994,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/febbraio.html</loc>
-    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/derby.html</loc>
-    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/inter.html</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2234,12 +2246,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/nazionale.html</loc>
-    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/calcio.html</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
