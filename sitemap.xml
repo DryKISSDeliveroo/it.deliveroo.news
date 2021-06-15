@@ -1021,6 +1021,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/beer.html</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/birra.html</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/euro-2020.html</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/italia.html</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/nazionale.html</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/mozzarella.html</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1531,12 +1561,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://it.deliveroo.news/tag/italia.html</loc>
-    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://it.deliveroo.news/tag/pink.html</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1868,30 +1892,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/pick-up.html</loc>
-    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/beer.html</loc>
-    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/birra.html</loc>
-    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/euro-2020.html</loc>
-    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/nazionale.html</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
