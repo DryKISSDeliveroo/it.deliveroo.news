@@ -667,7 +667,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://it.deliveroo.news/news/deliveroo-beer-birra-euro-2020-italia-nazionale.html</loc>
+    <loc>https://it.deliveroo.news/news/deliveroo-carbonara-ice-cream-gelato.html</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1070,6 +1070,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/nazionale.html</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/carbonara-ice-cream-gelato.html</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
