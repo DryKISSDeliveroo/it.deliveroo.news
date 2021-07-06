@@ -445,6 +445,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-bowl-healthy-cibo-sano-sofia-bronzato.html</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-milan-fashion-week.html</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1052,6 +1058,30 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/nazionale.html</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/bowl.html</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/healthy.html</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/cibo-sano.html</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/sofia-bronzato.html</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2648,12 +2678,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/alimentari.html</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/cibo-sano.html</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
