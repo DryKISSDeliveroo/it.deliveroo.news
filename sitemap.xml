@@ -115,6 +115,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-giornata-risata-pizza.html</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-expansion-2021.html</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1087,6 +1093,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/giornata-risata.html</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/pizza.html</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/roma.html</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1442,12 +1460,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/world-pizza-day.html</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/pizza.html</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3457,6 +3469,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/page/18.html</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/deliveroo/page/2.html</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3548,6 +3566,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/deliveroo/page/17.html</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/deliveroo/page/18.html</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
