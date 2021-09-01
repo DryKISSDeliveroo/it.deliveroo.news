@@ -205,6 +205,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-aamps-earth-day-ambiente-riciclo-differenziata-verona.html</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/classici-della-montagna.html</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1160,6 +1166,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/amsa.html</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/aamps.html</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
