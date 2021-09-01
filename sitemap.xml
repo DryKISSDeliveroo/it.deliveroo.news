@@ -751,6 +751,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-signature-ristoranti-nuove-citta.html</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-restaurants-covid-19-weekly-payments-cash-flow.html</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1117,6 +1123,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/signature.html</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/ristoranti.html</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/nuove-citta.html</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/giornata-risata.html</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1202,12 +1226,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/espansione.html</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/nuove-citta.html</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1508,12 +1526,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/soundtrack.html</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/ristoranti.html</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
