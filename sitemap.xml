@@ -409,6 +409,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-pride-bowl-rainbowl.html</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-expansion-january-2020-cities.html</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1249,6 +1255,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/pride.html</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/bowl.html</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/rainbowl.html</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/parafarmaceutici.html</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1448,12 +1472,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/ice-cream-ue.html</loc>
-    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/bowl.html</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2810,12 +2828,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/street-food.html</loc>
-    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/pride.html</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
