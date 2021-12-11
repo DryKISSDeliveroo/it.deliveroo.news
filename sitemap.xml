@@ -1027,6 +1027,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-hamburger-day.html</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/virtualbrand.html</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1273,6 +1279,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/hamburger.html</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/day.html</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/roma.html</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1496,12 +1514,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/compleanno.html</loc>
-    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/hamburger.html</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2438,12 +2450,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/january.html</loc>
-    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/day.html</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
