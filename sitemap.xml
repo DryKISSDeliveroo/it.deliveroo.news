@@ -1045,6 +1045,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-gelato-osservatorio.html</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/virtualbrand.html</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1196,6 +1202,18 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/supermercati.html</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/gelato.html</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/osservatorio.html</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1382,12 +1400,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/europa.html</loc>
-    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/gelato.html</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
