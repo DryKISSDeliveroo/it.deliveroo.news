@@ -259,6 +259,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-melone-cocomero-frutta.html</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-dfb.html</loc>
     <lastmod>2021-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1202,6 +1208,24 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/ristoranti-virtuali.html</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/melone.html</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/cocomero.html</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/frutta.html</loc>
     <lastmod>2021-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3745,6 +3769,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/page/20.html</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/deliveroo/page/2.html</loc>
     <lastmod>2021-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3848,6 +3878,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/deliveroo/page/19.html</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/deliveroo/page/20.html</loc>
     <lastmod>2021-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
