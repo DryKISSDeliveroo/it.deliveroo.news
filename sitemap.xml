@@ -451,6 +451,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-frank-matano-rider-roma.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-amsa-recycling-milano-environment.html</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1225,6 +1231,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/frank-matano.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/rider.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/roma.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/red-cross.html</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1340,12 +1364,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/estate.html</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/rider.html</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1574,12 +1592,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/day.html</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/roma.html</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
