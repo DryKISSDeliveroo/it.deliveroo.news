@@ -391,6 +391,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-vacanze-estate-spiaggia.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-alghero.html</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1610,6 +1616,18 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/mille.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/vacanze.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/spiaggia.html</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
