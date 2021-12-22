@@ -385,6 +385,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-trapani-sicilia.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-apres-ski-ski-sci-montagna.html</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1502,6 +1508,18 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/instagram-lessons.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/trapani.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/sicilia.html</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4010,6 +4028,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/deliveroo/page/17.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/deliveroo/page/18.html</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
