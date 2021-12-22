@@ -1129,6 +1129,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-panettone-musicale-spotify-forno-roscioli.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/festa-del-papa.html</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1328,6 +1334,30 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/gelato.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/panettone.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/musicale.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/spotify.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/forno-rosciolo.html</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2131,12 +2161,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://it.deliveroo.news/tag/panettone.html</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://it.deliveroo.news/tag/food.html</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2324,12 +2348,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/chefs.html</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/spotify.html</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
