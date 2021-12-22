@@ -979,6 +979,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-varese.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-birra-beer-day-supermercati.html</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1814,6 +1820,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/derby.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/varese.html</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4123,6 +4135,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/page/22.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/deliveroo/page/2.html</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4238,6 +4256,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/deliveroo/page/21.html</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/deliveroo/page/22.html</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
