@@ -985,6 +985,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-ebike-nilox.html</loc>
+    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-coronavirus-covid-19-insurance-assicurazione.html</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1466,6 +1472,18 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/al-padellino.html</loc>
+    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/e-bike.html</loc>
+    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/nilox.html</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
