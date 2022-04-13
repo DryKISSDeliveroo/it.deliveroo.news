@@ -565,6 +565,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-unicef-bambini-sostegno-alimentare.html</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-expansion-january-2020-cities.html</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1459,6 +1465,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/unicef.html</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/bambini.html</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/sostegno-alimentare.html</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/red-cross.html</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1466,12 +1490,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/croce-rossa.html</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/sostegno-alimentare.html</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3331,12 +3349,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://it.deliveroo.news/tag/unicef.html</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://it.deliveroo.news/tag/pokinho.html</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4280,6 +4292,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/espansione/page/2.html</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/archive/2022/page/2.html</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
