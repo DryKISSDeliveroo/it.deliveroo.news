@@ -373,6 +373,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-sonno-pausa-pranzo-pisolino-swg.html</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/classici-della-montagna.html</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1561,6 +1567,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/sonno.html</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/pausa-pranzo.html</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/pisolino.html</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/swg.html</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/hop.html</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1610,12 +1640,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/san-valentino.html</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/swg.html</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4310,6 +4334,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/deliveroo/page/19.html</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/deliveroo/page/20.html</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
