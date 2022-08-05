@@ -493,6 +493,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-eurovision-panini.html</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-milan-met-roo-metropolitana-mappa.html</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1514,6 +1520,18 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/eurovision.html</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/panini.html</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4436,6 +4454,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/archive/2022/page/2.html</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/archive/2022/page/3.html</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
