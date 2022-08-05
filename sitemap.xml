@@ -511,6 +511,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-pastiera-pasqua-pace.html</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/ice-cream-story.html</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1520,6 +1526,24 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/sostegno-alimentare.html</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/pastiera.html</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/pasqua.html</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/pace.html</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
