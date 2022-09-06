@@ -205,6 +205,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-cane-ufficio.html</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-milanese-imbruttito-chiringuito.html</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -218,6 +224,12 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/news/deliveroo-world-pizza-day-pizza-napoletana-scrocchiarella-sfincione-al-padellino.html</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-sushi-italiano-basara.html</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1543,6 +1555,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/cane.html</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/ufficio.html</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/sushi.html</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/italiano.html</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/basara.html</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/ied.html</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2401,12 +2443,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://it.deliveroo.news/tag/sushi.html</loc>
-    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://it.deliveroo.news/tag/sushi-day.html</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2750,12 +2786,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/psicologo.html</loc>
-    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/ufficio.html</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
