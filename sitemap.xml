@@ -1177,6 +1177,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-hot-dog-regole.html</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/expansionjune2019.html</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1568,6 +1574,18 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/hot-dog.html</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/regole.html</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
