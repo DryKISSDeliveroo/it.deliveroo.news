@@ -319,7 +319,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://it.deliveroo.news/news/deliveroo-sonno-pausa-pranzo-pisolino-swg.html</loc>
+    <loc>https://it.deliveroo.news/news/deliveroo-teal-flag-mare-estate.html</loc>
     <lastmod>2022-09-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1640,6 +1640,18 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/tv.html</loc>
+    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/teal-flag.html</loc>
+    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/mare.html</loc>
     <lastmod>2022-09-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
