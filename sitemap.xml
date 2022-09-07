@@ -829,6 +829,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/news/deliveroo-croce-rossa-rider-primo-soccorso.html</loc>
+    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/news/deliveroo-deliveroo-100-salmon-poke.html</loc>
     <lastmod>2022-09-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1711,6 +1717,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://it.deliveroo.news/tag/croce-rossa.html</loc>
+    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/rider.html</loc>
+    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it.deliveroo.news/tag/primo-soccorso.html</loc>
+    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://it.deliveroo.news/tag/esami.html</loc>
     <lastmod>2022-09-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1880,24 +1904,6 @@
   </url>
   <url>
     <loc>https://it.deliveroo.news/tag/red-cross.html</loc>
-    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/croce-rossa.html</loc>
-    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/rider.html</loc>
-    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://it.deliveroo.news/tag/primo-soccorso.html</loc>
     <lastmod>2022-09-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
